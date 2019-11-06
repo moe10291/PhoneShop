@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Google Pixel 4",
+        "price": 890.99,
+        "image": { "fields": { "file": { "url": "./images/android1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Sony Xperia XA",
+        "price": 124.87,
+        "image": { "fields": { "file": { "url": "./images/sony.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Oppo FindX",
+        "price": 789.89,
+        "image": { "fields": { "file": { "url": "./images/oppo.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Nokia 5.1 Plus",
+        "price": 262.57,
+        "image": { "fields": { "file": { "url": "./images/nokia.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Apple iPhone 6 Plus",
+        "price": 175.45,
+        "image": { "fields": { "file": { "url": "./images/apple.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Vivo V7",
+        "price": 219.99,
+        "image": { "fields": { "file": { "url": "./images/vivo.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Huawei P30 Pro",
+        "price": 719.79,
+        "image": { "fields": { "file": { "url": "./images/huawei.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Samsung Note10",
+        "price": 949.98,
+        "image": { "fields": { "file": { "url": "./images/note.jpg" } } }
+      }
+    }
+  ]
+}
